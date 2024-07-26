@@ -1,3 +1,0 @@
-deployment:
-  tag: "v1"
-  replicas: 1
